@@ -1,0 +1,21 @@
+[submodule "commons"]
+	path = commons
+	url = https://github.com/nextdeveloper-nl/commons.git
+[submodule "NextDeveloper/https:/github.com/nextdeveloper-nl/generator.git"]
+	path = NextDeveloper/https:/github.com/nextdeveloper-nl/generator.git
+	url = https://github.com/nextdeveloper-nl/commons.git
+[submodule "NextDeveloper/iam"]
+	path = NextDeveloper/iam
+	url = https://github.com/nextdeveloper-nl/iam.git
+[submodule "iam"]
+	path = iam
+	url = https://github.com/nextdeveloper-nl/iam.git
+[submodule "dene/iam"]
+	path = dene/iam
+	url = https://github.com/nextdeveloper-nl/iam.git
+[submodule "NextDeveloper/generator"]
+	path = NextDeveloper/generator
+	url = https://github.com/nextdeveloper-nl/generator.git
+[submodule "NextDeveloper/i18n"]
+	path = NextDeveloper/i18n
+	url = https://github.com/nextdeveloper-nl/i18n.git
