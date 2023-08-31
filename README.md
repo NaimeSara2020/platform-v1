@@ -113,7 +113,7 @@ touch env
 
 To generate an 'APP_KEY'
 ```
-php artisan key:generate
+php artisan key:generate  
 ```
 
 **Note that** This command automatically generates the key setting in the config/app.php file and adds it to the .env file.
