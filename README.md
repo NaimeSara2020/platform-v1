@@ -104,7 +104,7 @@ composer update
 
 ## Step 3: Creating the '.env' file and generating an APP_KEY
 
-Create a .env file in the projects root directory
+Create a .env file in the projects root directory :
 
 ```
 touch env
